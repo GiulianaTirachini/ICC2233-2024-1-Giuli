@@ -1,0 +1,19 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+
+Enunciado.pdf
+dcciudad.pyc
+todos_tests.py
+/__pycache__
+tests_publicos/
+ejemplos.py
+data/
